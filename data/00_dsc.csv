@@ -1,0 +1,275 @@
+Nummer,Probenbezeichnung,Konzentration_ppm,Matrix,Polymer,Alterung,mProben_mg,dHm_J/g,Tm_C
+L001,Mod.S-PE_1_25ppm,25,Modellsand,Polyethylen,,8.34,5.675,130.7
+L002,Mod.S-PE_1_25ppm,25,Modellsand,Polyethylen,,8.49,4.522,130.8
+L003,Mod.S-PE_1_25ppm,25,Modellsand,Polyethylen,,7.86,5.084,130.7
+L004,Mod.S-PE_1_50ppm,50,Modellsand,Polyethylen,,8.59,4.175,130.3
+L005,Mod.S-PE_1_50ppm,50,Modellsand,Polyethylen,,8.39,5.796,130.5
+L006,Mod.S-PE_1_50ppm,50,Modellsand,Polyethylen,,9.57,5.286,130.5
+L007,Mod.S-PE_1_80ppm,80,Modellsand,Polyethylen,,7.68,16.3,130.7
+L008,Mod.S-PE_1_80ppm,80,Modellsand,Polyethylen,,7.35,19.49,131.2
+L009,Mod.S-PE_1_80ppm,80,Modellsand,Polyethylen,,7.75,19.21,131.0
+L010,Mod.S-PE_1_100ppm,100,Modellsand,Polyethylen,,7.41,17.85,130.3
+L011,Mod.S-PE_1_100ppm,100,Modellsand,Polyethylen,,7.96,16.75,131.0
+L012,Mod.S-PE_1_100ppm,100,Modellsand,Polyethylen,,9.64,18.27,131.2
+L013,Mod.S-PE_2_100ppm,100,Modellsand,Polyethylen,,12.28,10.05,130.7
+L014,Mod.S-PE_2_100ppm,100,Modellsand,Polyethylen,,9.05,16.36,130.6
+L015,Mod.S-PE_2_100ppm,100,Modellsand,Polyethylen,,11.81,17.52,131.0
+L016,Mod.S-PE_2_100ppm,100,Modellsand,Polyethylen,,11.32,16.64,130.8
+L017,Mod.S-PE_3_60ppm,60,Modellsand,Polyethylen,,7.71,15.63,131.5
+L018,Mod.S-PE_3_60ppm,60,Modellsand,Polyethylen,,8.32,16.14,130.9
+L019,Mod.S-PE_3_60ppm,60,Modellsand,Polyethylen,,11.54,15.81,130.8
+L020,Mod.S-PE_2_40ppm,40,Modellsand,Polyethylen,,11.02,12.0,130.7
+L021,Mod.S-PE_2_40ppm,40,Modellsand,Polyethylen,,12.29,12.06,130.8
+L022,Mod.S-PE_2_40ppm,40,Modellsand,Polyethylen,,10.86,10.3,130.8
+L023,Mod.S-PE_0ppm BW nach Separator,0,Modellsand,Polyethylen,,10.41,0.495,130.4
+L024,Mod.S-PE_0ppm BW nach Separator,0,Modellsand,Polyethylen,,10.11,0.2278,130.5
+L027,ModS-PE-100ppm-3,100,Modellsand,Polyethylen,,8.3,20.14,131.1
+L028,ModS-PE-100ppm-3,100,Modellsand,Polyethylen,,11.44,17.23,130.9
+L029,ModS-PE-100ppm-3,100,Modellsand,Polyethylen,,9.31,17.74,131.0
+L030,ModS-PE-80ppm-2,80,Modellsand,Polyethylen,,8.95,12.67,130.1
+L031,ModS-PE-80ppm-2,80,Modellsand,Polyethylen,,10.94,13.4,130.6
+L032,ModS-PE-80ppm-2,80,Modellsand,Polyethylen,,10.64,12.67,130.6
+L033,ModS-PE-80ppm-3,80,Modellsand,Polyethylen,,8.98,15.27,130.6
+L034,ModS-PE-80ppm-3,80,Modellsand,Polyethylen,,9.8,17.41,130.8
+L035,ModS-PE-80ppm-3,80,Modellsand,Polyethylen,,9.06,14.73,130.6
+L036,ModS-PE-60ppm-1,60,Modellsand,Polyethylen,,9.02,16.5,130.9
+L037,ModS-PE-60ppm-1,60,Modellsand,Polyethylen,,9.8,16.99,130.9
+L038,ModS-PE-60ppm-1,60,Modellsand,Polyethylen,,11.48,14.85,130.7
+L039,ModS-PE-60ppm-2,60,Modellsand,Polyethylen,,10.99,8.096,130.8
+L040,ModS-PE-60ppm-2,60,Modellsand,Polyethylen,,11.72,8.224,130.6
+L041,ModS-PE-60ppm-2,60,Modellsand,Polyethylen,,10.19,7.82,130.4
+L042,ModS-PE-40ppm-1,40,Modellsand,Polyethylen,,12.0,5.39,130.7
+L043,ModS-PE-40ppm-1,40,Modellsand,Polyethylen,,11.09,5.115,130.8
+L044,ModS-PE-40ppm-1,40,Modellsand,Polyethylen,,10.89,4.921,130.7
+L045,ModS-PE-40ppm-3,40,Modellsand,Polyethylen,,9.78,11.65,131.0
+L046,ModS-PE-40ppm-3,40,Modellsand,Polyethylen,,9.15,11.36,130.5
+L047,ModS-PE-40ppm-3,40,Modellsand,Polyethylen,,8.69,11.02,13.6
+L048,ModS-PE-40ppm-3,40,Modellsand,Polyethylen,,8.82,11.81,130.8
+L049,ModS-PE-20ppm-1,20,Modellsand,Polyethylen,,13.1,3.999,130.5
+L050,ModS-PE-20ppm-1,20,Modellsand,Polyethylen,,11.82,4.792,130.7
+L051,ModS-PE-20ppm-1,20,Modellsand,Polyethylen,,11.7,4.972,131.0
+L052,ModS-PE-20ppm-2,20,Modellsand,Polyethylen,,10.57,3.966,130.8
+L053,ModS-PE-20ppm-2,20,Modellsand,Polyethylen,,12.14,4.237,130.7
+L054,ModS-PE-20ppm-2,20,Modellsand,Polyethylen,,10.38,3.798,130.7
+L055,ModS-PE-10ppm-1,10,Modellsand,Polyethylen,,16.98,1.825,130.7
+L056,ModS-PE-10ppm-1,10,Modellsand,Polyethylen,,15.25,1.115,130.7
+L057,ModS-PE-10ppm-1,10,Modellsand,Polyethylen,,16.16,1.599,130.8
+L058,ModS-PE-10ppm-2,10,Modellsand,Polyethylen,,13.74,1.742,130.8
+L059,ModS-PE-10ppm-2,10,Modellsand,Polyethylen,,16.07,1.566,130.5
+L060,ModS-PE-10ppm-2,10,Modellsand,Polyethylen,,13.76,1.674,130.6
+L061,ModS-PE-5ppm-1,5,Modellsand,Polyethylen,,15.15,0.3462,130.5
+L062,ModS-PE-5ppm-1,5,Modellsand,Polyethylen,,14.44,0.4414,129.8
+L063,ModS-PE-5ppm-1,5,Modellsand,Polyethylen,,15.66,0.4474,131.0
+L064,ModS-PE-1ppm-1,1,Modellsand,Polyethylen,,17.06,0.05025,130.8
+L065,ModS-PE-1ppm-1,1,Modellsand,Polyethylen,,16.91,-0.02086,130.9
+L066,ModS-PE-1ppm-1,1,Modellsand,Polyethylen,,19.18,-0.04827,131.2
+L067,ModS-PE-20ppm-3,20,Modellsand,Polyethylen,,18.1,3.054,130.8
+L068,ModS-PE-20ppm-3,20,Modellsand,Polyethylen,,18.53,2.6,130.9
+L069,ModS-PE-20ppm-3,20,Modellsand,Polyethylen,,17.17,2.833,131.1
+L070,ModS-PE-10ppm-3,10,Modellsand,Polyethylen,,17.41,1.228,130.8
+L071,ModS-PE-10ppm-3,10,Modellsand,Polyethylen,,16.56,1.496,131.0
+L072,ModS-PE-10ppm-3,10,Modellsand,Polyethylen,,15.17,1.579,130.7
+L073,ModS-PE-5ppm-2,5,Modellsand,Polyethylen,,14.4,1.041,130.8
+L074,ModS-PE-5ppm-2,5,Modellsand,Polyethylen,,15.51,1.084,131.0
+L075,ModS-PE-5ppm-2,5,Modellsand,Polyethylen,,18.89,0.6007,130.8
+L076,ModS-PE-5ppm-3,5,Modellsand,Polyethylen,,15.86,1.178,130.9
+L077,ModS-PE-5ppm-3,5,Modellsand,Polyethylen,,15.49,0.9231,130.9
+L078,ModS-PE-5ppm-3,5,Modellsand,Polyethylen,,15.1,1.06,130.8
+L079,ModS-PE-1ppm-2,1,Modellsand,Polyethylen,,17.97,0.3686,130.5
+L080,ModS-PE-1ppm-2,1,Modellsand,Polyethylen,,13.76,0.2813,130.7
+L081,ModS-PE-1ppm-2,1,Modellsand,Polyethylen,,18.94,0.1423,131.1
+L082,ModS-PE-1ppm-3,1,Modellsand,Polyethylen,,17.23,0.1225,131.3
+L083,ModS-PE-1ppm-3,1,Modellsand,Polyethylen,,16.79,0.1487,130.7
+L084,ModS-PE-1ppm-3,1,Modellsand,Polyethylen,,16.72,0.1298,131.3
+L121,ZF Sand-PE-0ppm-1,0,Sand,Polyethylen,,10.49,-0.4191,112.9
+L122,ZF Sand-PE-0ppm-1,0,Sand,Polyethylen,,9.32,-0.5753,116.8
+L123,ZF Sand-PE-0ppm-1,0,Sand,Polyethylen,,10.27,-0.4556,108.7
+L124,ZF Sand-PE-60ppm-1,60,Sand,Polyethylen,,14.51,1.902,130.7
+L125,ZF Sand-PE-60ppm-1,60,Sand,Polyethylen,,10.02,1.062,130.7
+L126,ZF Sand-PE-60ppm-1,60,Sand,Polyethylen,,10.49,1.124,130.9
+L127,ZF Sand-PE-60ppm-2,60,Sand,Polyethylen,,11.44,1.344,130.4
+L128,ZF Sand-PE-60ppm-2,60,Sand,Polyethylen,,11.01,1.095,130.9
+L129,ZF Sand-PE-60ppm-2,60,Sand,Polyethylen,,9.64,1.091,130.4
+L130,ZF Sand-PE-40ppm-1,40,Sand,Polyethylen,,11.82,0.6584,130.9
+L131,ZF Sand-PE-40ppm-1,40,Sand,Polyethylen,,9.37,0.6296,130.5
+L132,ZF Sand-PE-40ppm-1,40,Sand,Polyethylen,,10.85,0.3504,130.6
+L133,ZF Sand-PE-40ppm-2,40,Sand,Polyethylen,,10.06,0.8895,130.9
+L134,ZF Sand-PE-40ppm-2,40,Sand,Polyethylen,,9.04,0.5927,130.8
+L135,ZF Sand-PE-40ppm-2,40,Sand,Polyethylen,,9.64,0.7472,130.6
+L136,ZF Sand-PE-40ppm-3,40,Sand,Polyethylen,,11.6,0.9689,131.0
+L137,ZF Sand-PE-40ppm-3,40,Sand,Polyethylen,,11.88,0.8679,130.6
+L138,ZF Sand-PE-40ppm-3,40,Sand,Polyethylen,,10.0,0.5867,130.6
+L139,ZF Sand-PE-20ppm-1,20,Sand,Polyethylen,,11.02,0.2379,130.5
+L140,ZF Sand-PE-20ppm-1,20,Sand,Polyethylen,,10.04,0.3428,130.7
+L141,ZF Sand-PE-20ppm-1,20,Sand,Polyethylen,,10.23,0.2842,130.5
+L142,ZF Sand-PE-20ppm-2,20,Sand,Polyethylen,,10.44,0.1364,130.6
+L143,ZF Sand-PE-20ppm-2,20,Sand,Polyethylen,,9.97,0.03483,131.2
+L144,ZF Sand-PE-20ppm-2,20,Sand,Polyethylen,,10.39,0.2346,130.7
+L145,ZF Sand-PE-20ppm-3,20,Sand,Polyethylen,,11.25,0.2582,131.2
+L146,ZF Sand-PE-20ppm-3,20,Sand,Polyethylen,,10.45,0.2852,131.0
+L147,ZF Sand-PE-20ppm-3,20,Sand,Polyethylen,,11.01,0.4825,130.8
+L148,ZF Sand-PE-10ppm-1,10,Sand,Polyethylen,,10.19,0.215,130.4
+L149,ZF Sand-PE-10ppm-1,10,Sand,Polyethylen,,10.66,0.255,130.8
+L150,ZF Sand-PE-10ppm-1,10,Sand,Polyethylen,,10.05,0.1516,130.2
+L151,ZF Sand-PE-10ppm-2,10,Sand,Polyethylen,,11.47,0.3046,130.8
+L152,ZF Sand-PE-10ppm-2,10,Sand,Polyethylen,,10.97,0.3512,131.1
+L153,ZF Sand-PE-10ppm-2,10,Sand,Polyethylen,,10.72,0.1316,131.1
+L154,ZF Sand-PE-10ppm-3,10,Sand,Polyethylen,,10.0,0.1825,131.0
+L155,ZF Sand-PE-10ppm-3,10,Sand,Polyethylen,,11.12,0.4328,130.8
+L156,ZF Sand-PE-10ppm-3,10,Sand,Polyethylen,,10.32,0.2568,130.7
+L157,ZF Sand-PE-60ppm-3,60,Sand,Polyethylen,,11.26,1.814,130.6
+L158,ZF Sand-PE-60ppm-3,60,Sand,Polyethylen,,10.12,1.292,130.6
+L159,ZF Sand-PE-60ppm-3,60,Sand,Polyethylen,,10.55,1.415,130.5
+L166,ZF Weis-PE-100ppm-1,100,Sediment Weißeritz,Polyethylen,,13.64,0.267,127.5
+L167,ZF Weis-PE-100ppm-1,100,Sediment Weißeritz,Polyethylen,,10.83,0.1931,129.1
+L168,ZF Weis-PE-100ppm-1,100,Sediment Weißeritz,Polyethylen,,13.2,0.2142,130.8
+L169,ZF Weis-PE-60ppm-1,60,Sediment Weißeritz,Polyethylen,,12.4,0.1411,102.3
+L170,ZF Weis-PE-60ppm-1,60,Sediment Weißeritz,Polyethylen,,10.86,0.3155,128.0
+L171,ZF Weis-PE-60ppm-1,60,Sediment Weißeritz,Polyethylen,,11.8,0.01824,130.8
+L172,ZF Weis-PE-40ppm-1,40,Sediment Weißeritz,Polyethylen,,11.16,0.07327,127.8
+L173,ZF Weis-PE-40ppm-1,40,Sediment Weißeritz,Polyethylen,,11.57,-0.00381,129.9
+L174,ZF Weis-PE-40ppm-1,40,Sediment Weißeritz,Polyethylen,,11.17,0.2454,131.0
+L175,ZF Weis-PE-20ppm-1,20,Sediment Weißeritz,Polyethylen,,10.79,0.06964,130.9
+L176,ZF Weis-PE-20ppm-1,20,Sediment Weißeritz,Polyethylen,,12.21,0.1539,129.6
+L177,ZF Weis-PE-20ppm-1,20,Sediment Weißeritz,Polyethylen,,11.25,0.2534,130.0
+L178,ZF Weis-PE-60ppm-2,60,Sediment Weißeritz,Polyethylen,,11.07,0.2534,130.0
+L179,ZF Weis-PE-60ppm-2,60,Sediment Weißeritz,Polyethylen,,10.72,0.1686,130.7
+L180,ZF Weis-PE-60ppm-2,60,Sediment Weißeritz,Polyethylen,,11.93,0.3486,130.5
+L181,ZF Weis-PE-60ppm-3,60,Sediment Weißeritz,Polyethylen,,10.8,0.3685,130.3
+L182,ZF Weis-PE-60ppm-3,60,Sediment Weißeritz,Polyethylen,,10.57,0.1037,131.2
+L183,ZF Weis-PE-60ppm-3,60,Sediment Weißeritz,Polyethylen,,11.77,-0.009241,98.9
+L184,ZF Weis-PE-100ppm-2,100,Sediment Weißeritz,Polyethylen,,10.39,0.1532,94.4
+L185,ZF Weis-PE-100ppm-2,100,Sediment Weißeritz,Polyethylen,,10.27,0.1939,130.2
+L186,ZF Weis-PE-100ppm-2,100,Sediment Weißeritz,Polyethylen,,10.86,0.07681,131.6
+L187,ZF Weis-PE-100ppm-3,100,Sediment Weißeritz,Polyethylen,,11.12,0.2705,130.7
+L188,ZF Weis-PE-100ppm-3,100,Sediment Weißeritz,Polyethylen,,10.33,0.2619,130.8
+L189,ZF Weis-PE-100ppm-3,100,Sediment Weißeritz,Polyethylen,,11.31,-0.605,93.3
+L190,ZF Weis-PE-40ppm-2,40,Sediment Weißeritz,Polyethylen,,10.34,-0.05175,111.5
+L191,ZF Weis-PE-40ppm-2,40,Sediment Weißeritz,Polyethylen,,12.27,0.1367,148.3
+L192,ZF Weis-PE-40ppm-2,40,Sediment Weißeritz,Polyethylen,,10.59,0.06273,148.4
+L193,ZF Weis-PE-40ppm-3,40,Sediment Weißeritz,Polyethylen,,12.45,-0.1214,148.5
+L194,ZF Weis-PE-40ppm-3,40,Sediment Weißeritz,Polyethylen,,11.94,0.1174,148.5
+L195,ZF Weis-PE-40ppm-3,40,Sediment Weißeritz,Polyethylen,,11.43,-0.04617,144.6
+L196,ZF Weis-PE-20ppm-2,20,Sediment Weißeritz,Polyethylen,,12.09,-0.04355,148.5
+L197,ZF Weis-PE-20ppm-2,20,Sediment Weißeritz,Polyethylen,,11.04,-0.1265,148.0
+L198,ZF Weis-PE-20ppm-2,20,Sediment Weißeritz,Polyethylen,,10.65,-0.0585,148.4
+L199,ZF Weis-PE-20ppm-3,20,Sediment Weißeritz,Polyethylen,,10.57,-0.1283,148.5
+L200,ZF Weis-PE-20ppm-3,20,Sediment Weißeritz,Polyethylen,,11.33,0.006272,148.5
+L201,ZF Weis-PE-20ppm-3,20,Sediment Weißeritz,Polyethylen,,10.97,0.0515,148.5
+L202,ZF Weis-PE-80ppm-1,80,Sediment Weißeritz,Polyethylen,,10.77,0.2492,146.1
+L203,ZF Weis-PE-80ppm-1,80,Sediment Weißeritz,Polyethylen,,12.58,0.1158,130.9
+L204,ZF Weis-PE-80ppm-1,80,Sediment Weißeritz,Polyethylen,,12.97,0.1348,148.4
+L205,ZF Weis-PE-80ppm-2,80,Sediment Weißeritz,Polyethylen,,12.19,0.07933,148.4
+L206,ZF Weis-PE-80ppm-2,80,Sediment Weißeritz,Polyethylen,,12.11,-0.02285,148.4
+L207,ZF Weis-PE-80ppm-2,80,Sediment Weißeritz,Polyethylen,,11.41,0.1063,131.0
+L208,ZF Weis-PE-80ppm-3,80,Sediment Weißeritz,Polyethylen,,12.75,-0.1562,148.4
+L209,ZF Weis-PE-80ppm-3,80,Sediment Weißeritz,Polyethylen,,10.6,-0.2206,148.4
+L210,ZF Weis-PE-80ppm-3,80,Sediment Weißeritz,Polyethylen,,11.15,-0.2351,148.5
+L226,ZF ModS-PE-100ppm-4,100,Modellsand,Polyethylen,,10.47,3.074,127.7
+L227,ZF ModS-PE-100ppm-4,100,Modellsand,Polyethylen,,11.85,3.626,128.5
+L228,ZF ModS-PE-100ppm-4,100,Modellsand,Polyethylen,,11.44,2.045,127.0
+L229,ZF ModS-PE-100ppm-5,100,Modellsand,Polyethylen,,9.68,8.474,129.9
+L230,ZF ModS-PE-100ppm-5,100,Modellsand,Polyethylen,,13.35,9.607,130.7
+L231,ZF ModS-PE-100ppm-5,100,Modellsand,Polyethylen,,10.72,13.17,129.7
+L232,ZF ModS-PE-100ppm-6,100,Modellsand,Polyethylen,,11.58,7.706,128.9
+L233,ZF ModS-PE-100ppm-6,100,Modellsand,Polyethylen,,9.32,10.08,129.8
+L234,ZF ModS-PE-100ppm-6,100,Modellsand,Polyethylen,,10.43,7.516,129.2
+L235,ZF Elbe-PE-100ppm-1,100,Sediment Elbe,Polyethylen,,17.21,0.008631,131.0
+L236,ZF Elbe-PE-100ppm-1,100,Sediment Elbe,Polyethylen,,16.5,0.0187,147.2
+L237,ZF Elbe-PE-100ppm-1,100,Sediment Elbe,Polyethylen,,18.23,0.09233,148.4
+L238,ZF Elbe-PE-100ppm-2,100,Sediment Elbe,Polyethylen,,17.42,0.006098,130.7
+L239,ZF Elbe-PE-100ppm-2,100,Sediment Elbe,Polyethylen,,20.66,-0.07153,101.6
+L240,ZF Elbe-PE-100ppm-2,100,Sediment Elbe,Polyethylen,,17.18,0.07037,130.4
+L241,ZF Elbe-PE-100ppm-3,100,Sediment Elbe,Polyethylen,,17.84,0.01118,148.3
+L242,ZF Elbe-PE-100ppm-3,100,Sediment Elbe,Polyethylen,,20.25,0.2746,107.5
+L243,ZF Elbe-PE-100ppm-3,100,Sediment Elbe,Polyethylen,,16.05,0.1224,130.4
+L244,ZF Elbe-PE-80ppm-1,80,Sediment Elbe,Polyethylen,,18.45,0.2346,130.6
+L245,ZF Elbe-PE-80ppm-1,80,Sediment Elbe,Polyethylen,,18.22,0.2582,131.1
+L246,ZF Elbe-PE-80ppm-1,80,Sediment Elbe,Polyethylen,,18.95,0.2852,130.9
+L247,ZF Elbe-PE-80ppm-2,80,Sediment Elbe,Polyethylen,,16.91,-0.07958,107.6
+L248,ZF Elbe-PE-80ppm-2,80,Sediment Elbe,Polyethylen,,16.23,-0.02713,148.3
+L249,ZF Elbe-PE-80ppm-2,80,Sediment Elbe,Polyethylen,,18.04,0.0933,130.5
+L250,ZF Elbe-PE-80ppm-3,80,Sediment Elbe,Polyethylen,,21.5,0.06541,130.3
+L251,ZF Elbe-PE-80ppm-3,80,Sediment Elbe,Polyethylen,,19.26,0.4226,130.3
+L252,ZF Elbe-PE-80ppm-3,80,Sediment Elbe,Polyethylen,,17.68,-0.02957,147.9
+L271,ZF Elbe-PE-60ppm-1,60,Sediment Elbe,Polyethylen,,21.08,0.1074,117.9
+L272,ZF Elbe-PE-60ppm-1,60,Sediment Elbe,Polyethylen,,22.35,0.02372,120.1
+L273,ZF Elbe-PE-60ppm-1,60,Sediment Elbe,Polyethylen,,21.78,-0.06491,121.0
+L274,ZF Elbe-PE-60ppm-2,60,Sediment Elbe,Polyethylen,,22.14,0.0002017,130.0
+L275,ZF Elbe-PE-60ppm-2,60,Sediment Elbe,Polyethylen,,19.57,0.3376,123.8
+L276,ZF Elbe-PE-60ppm-2,60,Sediment Elbe,Polyethylen,,23.15,0.05289,130.2
+L277,ZF Elbe-PE-60ppm-3,60,Sediment Elbe,Polyethylen,,19.7,-0.03799,130.5
+L278,ZF Elbe-PE-60ppm-3,60,Sediment Elbe,Polyethylen,,20.76,-0.1801,110.8
+L279,ZF Elbe-PE-60ppm-3,60,Sediment Elbe,Polyethylen,,22.64,-0.1094,91.6
+L280,ZF Elbe-PE-40ppm-1,40,Sediment Elbe,Polyethylen,,18.38,-0.2384,96.7
+L281,ZF Elbe-PE-40ppm-1,40,Sediment Elbe,Polyethylen,,19.19,0.04544,149.4
+L282,ZF Elbe-PE-40ppm-1,40,Sediment Elbe,Polyethylen,,21.65,-0.1731,99.7
+L283,ZF Elbe-PE-40ppm-2,40,Sediment Elbe,Polyethylen,,17.38,0.04048,130.7
+L284,ZF Elbe-PE-40ppm-2,40,Sediment Elbe,Polyethylen,,20.73,-0.008536,130.7
+L285,ZF Elbe-PE-40ppm-2,40,Sediment Elbe,Polyethylen,,19.02,-0.003908,130.9
+L286,ZF Elbe-PE-40ppm-3,40,Sediment Elbe,Polyethylen,,19.59,0.02697,148.2
+L287,ZF Elbe-PE-40ppm-3,40,Sediment Elbe,Polyethylen,,16.85,-0.05265,145.6
+L288,ZF Elbe-PE-40ppm-3,40,Sediment Elbe,Polyethylen,,20.36,0.09062,130.2
+L289,ZF Elbe-PE-20ppm-1,20,Sediment Elbe,Polyethylen,,20.77,0.04022,130.3
+L290,ZF Elbe-PE-20ppm-1,20,Sediment Elbe,Polyethylen,,21.92,0.004094,148.0
+L291,ZF Elbe-PE-20ppm-1,20,Sediment Elbe,Polyethylen,,18.83,-0.1908,110.5
+L292,ZF Elbe-PE-20ppm-2,20,Sediment Elbe,Polyethylen,,18.07,-0.2336,95.8
+L293,ZF Elbe-PE-20ppm-2,20,Sediment Elbe,Polyethylen,,20.52,-0.07968,99.3
+L294,ZF Elbe-PE-20ppm-2,20,Sediment Elbe,Polyethylen,,18.51,-0.04353,148.3
+L295,ZF Elbe-PE-20ppm-3,20,Sediment Elbe,Polyethylen,,21.85,0.3379,148.3
+L296,ZF Elbe-PE-20ppm-3,20,Sediment Elbe,Polyethylen,,20.1,0.1119,148.0
+L297,ZF Elbe-PE-20ppm-3,20,Sediment Elbe,Polyethylen,,19.13,-0.05172,123.4
+L322,DS Elbe-PE-100ppm-1,100,Sediment Elbe,Polyethylen,,0.95,94.65,130.8
+L323,DS Elbe-PE-100ppm-1,100,Sediment Elbe,Polyethylen,,0.96,109.1,131.5
+L324,DS Elbe-PE-100ppm-1,100,Sediment Elbe,Polyethylen,,1.12,67.87,130.9
+L325,DS Elbe-PE-100ppm-2,100,Sediment Elbe,Polyethylen,,1.15,12.9,130.4
+L326,DS Elbe-PE-100ppm-2,100,Sediment Elbe,Polyethylen,,1.04,48.14,130.8
+L327,DS Elbe-PE-100ppm-2,100,Sediment Elbe,Polyethylen,,1.0,31.14,130.8
+L328,DS Elbe-PE-60ppm-1,60,Sediment Elbe,Polyethylen,,0.91,75.85,131.4
+L329,DS Elbe-PE-60ppm-1,60,Sediment Elbe,Polyethylen,,0.95,57.2,130.6
+L330,DS Elbe-PE-60ppm-1,60,Sediment Elbe,Polyethylen,,0.97,77.42,130.8
+L331,DS Elbe-PE-60ppm-2,60,Sediment Elbe,Polyethylen,,0.95,47.86,131.6
+L332,DS Elbe-PE-60ppm-2,60,Sediment Elbe,Polyethylen,,1.05,38.23,130.9
+L333,DS Elbe-PE-60ppm-2,60,Sediment Elbe,Polyethylen,,0.92,34.65,130.9
+L334,DS Elbe-PE-20ppm-1,20,Sediment Elbe,Polyethylen,,1.19,16.36,129.2
+L335,DS Elbe-PE-20ppm-1,20,Sediment Elbe,Polyethylen,,1.17,6.867,130.3
+L336,DS Elbe-PE-20ppm-1,20,Sediment Elbe,Polyethylen,,0.99,12.55,130.3
+L337,DS Elbe-PE-20ppm-2,20,Sediment Elbe,Polyethylen,,1.01,4.391,130.4
+L338,DS Elbe-PE-20ppm-2,20,Sediment Elbe,Polyethylen,,0.87,2.24,130.7
+L339,DS Elbe-PE-20ppm-2,20,Sediment Elbe,Polyethylen,,1.14,0.7321,129.5
+L340,DS Weis-PE-100ppm-1,100,Sediment Weißeritz,Polyethylen,,1.12,10.05,130.3
+L341,DS Weis-PE-100ppm-1,100,Sediment Weißeritz,Polyethylen,,1.04,14.99,130.6
+L342,DS Weis-PE-100ppm-1,100,Sediment Weißeritz,Polyethylen,,1.13,7.973,130.7
+L343,DS Weis-PE-100ppm-2,100,Sediment Weißeritz,Polyethylen,,1.06,14.6,130.4
+L344,DS Weis-PE-100ppm-2,100,Sediment Weißeritz,Polyethylen,,1.05,29.91,130.7
+L345,DS Weis-PE-100ppm-2,100,Sediment Weißeritz,Polyethylen,,0.95,27.78,130.8
+L346,DS Weis-PE-60ppm-1,60,Sediment Weißeritz,Polyethylen,,1.07,3.616,130.3
+L347,DS Weis-PE-60ppm-1,60,Sediment Weißeritz,Polyethylen,,1.04,5.576,130.3
+L348,DS Weis-PE-60ppm-1,60,Sediment Weißeritz,Polyethylen,,1.05,11.86,130.7
+L349,DS Weis-PE-60ppm-2,60,Sediment Weißeritz,Polyethylen,,1.17,10.32,130.6
+L350,DS Weis-PE-60ppm-2,60,Sediment Weißeritz,Polyethylen,,1.13,12.75,130.9
+L351,DS Weis-PE-60ppm-2,60,Sediment Weißeritz,Polyethylen,,1.15,14.04,131.0
+L352,DS Weis-PE-20ppm-1,20,Sediment Weißeritz,Polyethylen,,0.98,8.694,130.7
+L353,DS Weis-PE-20ppm-1,20,Sediment Weißeritz,Polyethylen,,0.89,13.05,129.8
+L354,DS Weis-PE-20ppm-1,20,Sediment Weißeritz,Polyethylen,,0.93,5.558,129.2
+L355,DS Weis-PE-20ppm-2,20,Sediment Weißeritz,Polyethylen,,1.2,8.494,130.6
+L356,DS Weis-PE-20ppm-2,20,Sediment Weißeritz,Polyethylen,,1.09,8.467,130.5
+L357,DS Weis-PE-20ppm-2,20,Sediment Weißeritz,Polyethylen,,1.06,12.44,130.8
+L358,DS Sand-PE-100ppm-1_2,100,Sand,Polyethylen,,1.11,133.3,131.5
+L359,DS Sand-PE-100ppm-1_2,100,Sand,Polyethylen,,1.04,128.1,130.6
+L360,DS Sand-PE-100ppm-1_2,100,Sand,Polyethylen,,1.09,127.1,130.6
+L361,DS Sand-PE-100ppm-2_2,100,Sand,Polyethylen,,1.13,124.4,131.3
+L362,DS Sand-PE-100ppm-2_2,100,Sand,Polyethylen,,1.18,128.6,131.4
+L363,DS Sand-PE-100ppm-2_2,100,Sand,Polyethylen,,1.04,133.6,130.6
+L364,DS Sand-PE-60ppm-1_2,60,Sand,Polyethylen,,1.02,144.1,131.3
+L365,DS Sand-PE-60ppm-1_2,60,Sand,Polyethylen,,1.0,124.4,131.1
+L366,DS Sand-PE-60ppm-1_2,60,Sand,Polyethylen,,1.07,145.1,130.7
+L367,DS Sand-PE-60ppm-2_2,60,Sand,Polyethylen,,1.06,134.6,130.9
+L368,DS Sand-PE-60ppm-2_2,60,Sand,Polyethylen,,1.05,135.3,131.0
+L369,DS Sand-PE-60ppm-2_2,60,Sand,Polyethylen,,1.07,135.7,131.0
+L370,DS Sand-PE-20ppm-1_2,20,Sand,Polyethylen,,0.97,147.6,130.7
+L371,DS Sand-PE-20ppm-1_2,20,Sand,Polyethylen,,1.05,147.8,130.5
+L372,DS Sand-PE-20ppm-1_2,20,Sand,Polyethylen,,1.09,150.6,130.5
+L373,DS Sand-PE-20ppm-2_2,20,Sand,Polyethylen,,1.0,144.9,130.6
+L374,DS Sand-PE-20ppm-2_2,20,Sand,Polyethylen,,1.04,133.7,131.2
+L375,DS Sand-PE-20ppm-2_2,20,Sand,Polyethylen,,0.99,142.8,130.4
