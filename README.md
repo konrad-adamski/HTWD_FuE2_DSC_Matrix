@@ -5,7 +5,4 @@ Dieses Repository enthält Notebooks und Datensätze, die für die Matrixerkennu
 
 Die Rohdaten wurden zunächst mit dem [**AutoClicker**](https://github.com/konrad-adamski/HTWD_FuE2_proteusAutoClicker) extrahiert, der die Messwerte automatisiert aus der Proteus-Software exportiert.
 
-## Autor
-[**Konrad Adamski**](https://github.com/konrad-adamski)
-
 
