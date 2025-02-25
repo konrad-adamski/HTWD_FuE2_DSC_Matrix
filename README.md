@@ -1,4 +1,4 @@
-# HTWD_FuE2_DSC_Matrix
+# DSC Matrixerkennung
 
 ## Überblick
 Dieses Repository enthält Notebooks und Datensätze, die für die Matrixerkennung in DSC-Daten verwendet wurden. Es umfasst Methoden zur Datenvorbereitung, Klassifikation und Clustering.  
